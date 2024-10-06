@@ -194,5 +194,8 @@ a{
        .button{
         width: 80%;
        }
+        .footer a{
+        margin: 0.5rem;
+       }
    }
 
